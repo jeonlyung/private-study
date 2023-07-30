@@ -1,1 +1,6 @@
-Amarzon Route 53 :  클라우드 기반의 DNS(Domain Name System) 웹 서비스
+Amarzon Route 53 
+	- 클라우드 기반의 DNS(Domain Name System) 웹 서비스
+
+Amarzon Elacstic Load Balancing
+	- 단일 가용 영역 또는 여러 가용 영역에서 EC2 인스턴스 및 컨테이너 등 서비스를 제공하기 위해 준비된 여러 대상으로 애플리케이션 및 네트워크 트래픽을 자동 분산해주는 서비스
+
